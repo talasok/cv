@@ -90,7 +90,7 @@ With 4 years of experience as a developer, participating in the development and 
 - **Unity, C#, LuaScript, Vue.js**.  
 - Backend: **C#, Java (Spring Boot)**.  
 
-### **Game H5: Vạn Thần Giới** *(01/2023 - 08/2023)*  
+### **Vạn Thần Giới** *(01/2023 - 08/2023)*  
 🔗 [Game Link](https://vanthangioi.com)  
 - Genre: **Idle RPG**.  
 - Team size: **6 members**.  
