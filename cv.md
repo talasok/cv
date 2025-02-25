@@ -4,7 +4,7 @@
 📞 0388960302 | ✉ hthoang1997@gmail.com | 🌐 fb.com/thanhoang97 | 📍 Phong Điền, Thừa Thiên Huế  
 
 ## **CAREER OBJECTIVE**  
-With 4 years of experience as a developer, participating in the development and deployment of various projects, I am confident in my ability to complete assigned tasks effectively. I am looking to apply for a **Junior or Fresher Java Developer** position to further develop my skills, contribute to product improvement, and bring valuable benefits to the company. Additionally, my goal is to become a skilled **Lead Developer within the next two years**.  
+With 4 years of experience as a developer, participating in the development and deployment of various projects, I am confident in my ability to complete assigned tasks effectively. I am seeking a **Backend Java Developer** position to further develop my skills, contribute to product improvement, and bring valuable benefits to the company. Additionally, my goal is to become a skilled **Lead Developer within the next two years**.  
 
 ## **EDUCATION**  
 **University of Science - Hue University** *(2016 - 2020)*  
@@ -13,7 +13,7 @@ With 4 years of experience as a developer, participating in the development and 
 ## **WORK EXPERIENCE**  
 
 ### **NEXTGEN Studio JSC** *(08/2023 - Present)*  
-**Software Developer**  
+**Game Developer**  
 - Experienced in **Unity, C++, LuaScript, Java (Spring/Spring Boot), Vue.js, and Cocos Creator (TypeScript)**.  
 - Backend: **C++, Java (Spring/Spring Boot)**.  
 - Basic knowledge of **MySQL, Git**.  
@@ -27,7 +27,7 @@ With 4 years of experience as a developer, participating in the development and 
 - Developed **backend (Java) and frontend (Vue.js) functionalities** for management web applications (e.g., user management, gift code system, analytics).  
 
 ### **TOPGAME360 JSC** *(01/2023 - 07/2023)*  
-**Software Developer**  
+**Game Developer**  
 - Developed using **TypeScript and Java (MVC)**.  
 - Backend: **Java (Spring MVC)**.  
 - Basic knowledge of **MySQL, Git, SVN**.  
@@ -35,7 +35,7 @@ With 4 years of experience as a developer, participating in the development and 
 - Fixed bugs and improved game performance.  
 
 ### **Estudio JSC** *(07/2020 - 12/2022)*  
-**Software Developer**  
+**Game Developer**  
 - Developed using **TypeScript and LuaScript**.  
 - Backend: **LuaScript**.  
 - Basic knowledge of **MySQL, SVN**.  
@@ -76,7 +76,7 @@ With 4 years of experience as a developer, participating in the development and 
 🔗 [Game Link](https://cot.168eg.com)  
 - Genre: **Idle RPG**.  
 - Team size: **5 members**.  
-- **Role: Developer**.  
+- **Role: Game Developer**.  
 - Modified game UI.  
 - Responsible for **end-to-end development of features**.  
 - Collaborated closely with developers and clients to meet project requirements.  
@@ -94,7 +94,7 @@ With 4 years of experience as a developer, participating in the development and 
 🔗 [Game Link](https://vanthangioi.com)  
 - Genre: **Idle RPG**.  
 - Team size: **6 members**.  
-- **Role: Developer**.  
+- **Role: Game Developer**.  
 - Modified game UI.  
 - Responsible for **end-to-end development of features**.  
 - Debugged and optimized game performance.  
@@ -108,7 +108,7 @@ With 4 years of experience as a developer, participating in the development and 
 - Games: **Phàm Nhân Tu Tiên, Thiên Hạ Ngũ Tuyệt, Ninja Làng Lá, Tân Lãnh Chúa, Thuần Thú Sư H5, Thức Tỉnh Haki**.  
 - Genre: **Idle RPG**.  
 - Team size: **6 members**.  
-- **Role: Developer**.  
+- **Role: Game Developer**.  
 - Modified game UI.  
 - Collaborated with the team to develop features and solve problems.  
 - Debugged and optimized game performance.  
