@@ -63,6 +63,11 @@ With four years of experience as a developer, actively contributing to the devel
 - **2+ years** working with LuaScript and Egret TypeScript.
 - Possess an **architectural mindset**, with the ability to write clean, reusable, and scalable code.
 - Familiar with **software development processes**, source control, deployment, and production release workflows.
+- Problem-solving skills
+- Self-learning and research skills
+- Communication skills
+- Teamwork skills
+- Project management skills
 
 ## 🏗 Technologies
 - **Programming Languages & Frameworks:** Java (Spring/Spring Boot), Unity, C#, C++, LuaScript, Egret (TypeScript), Vue.js, Cocos Creator (TypeScript)
