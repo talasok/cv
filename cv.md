@@ -7,7 +7,7 @@
 - **Location:** Phong Dien, Tp Hue  
 
 ## 🎯 Career Objective
-With four years of experience as a developer, actively contributing to the development and deployment of various projects, I am confident in my ability to successfully complete assigned tasks. I am seeking a **Java Developer** position to further enhance my skills, contribute to product improvements, and bring valuable benefits to the company. My goal is to become a skilled **Lead Developer** within the next two years.
+With over four years of experience as a developer, actively contributing to the development and deployment of various projects, I am confident in my ability to successfully complete assigned tasks. I am seeking a **Java Developer** position to further enhance my skills, contribute to product improvements, and bring valuable benefits to the company. My goal is to become a skilled **Lead Developer** within the next two years.
 
 ## 🎓 Education
 **University of Science - Hue University**  
@@ -37,7 +37,7 @@ With four years of experience as a developer, actively contributing to the devel
 - Collaborated with the team to solve problems and develop new features.
 - Fixed bugs and improved game performance.
 
-### **Estudio JSC** *(July 2022 - December 2022)*  
+### **Estudio JSC** *(July 2020 - December 2022)*  
 **Full-Stack Developer**  
 - **Technologies:** Egret TypeScript, LuaScript, MySQL, Git, SVN.  
 - Take technical responsibility for the project.
@@ -58,11 +58,14 @@ With four years of experience as a developer, actively contributing to the devel
 - Modified game UI.
 
 ## 🛠 Skills
-- **4+ years** of experience in full-stack game application development.
+### **Technical Skills**
+- **4+ years** of experience in full-stack game and web application development.
 - **1+ years** of experience working with Java (Spring, Spring Boot, MVC), C#, and C++.
 - **2+ years** working with LuaScript and Egret TypeScript.
 - Possess an **architectural mindset**, with the ability to write clean, reusable, and scalable code.
 - Familiar with **software development processes**, source control, deployment, and production release workflows.
+
+### **Soft Skills**
 - Problem-solving skills
 - Self-learning and research skills
 - Communication skills
@@ -76,53 +79,74 @@ With four years of experience as a developer, actively contributing to the devel
 
 ## 🚀 Projects
 
+### **K*** *(January 2023 - Present)*  
+**Client:** VN  
+**Genre:** Battle Chess - The game runs on mobile platforms.  
+**Team Size:** 5  
+**Position:** Software Engineer  
+
+**Responsibilities:**
+- Receive and analyze source code to understand system architecture and functionality.
+- Research and implement build & deployment processes to ensure smooth software releases.
+- Troubleshoot and resolve build/deployment issues to maintain system stability.
+- Set up environments, build, deploy, and maintain game server systems on CentOS.
+
+**Technologies:** Java (Spring Boot), Cocos Creator (TypeScript), MySQL, GitLab.
+
+---
+
 ### **Call Of Treasure** *(April 2024 - December 2024)*  
 **Client:** VN  
 **Genre:** Idle RPG - The game runs on mobile platforms.  
 **Team Size:** 6  
-**Position:** Software Developer  
+**Position:** Software Engineer  
 
 **Responsibilities:**
 - Take technical responsibility for the project.
 - Modified game UI.
 - Responsible for end-to-end development of features.
-- Collaborated closely with developers and clients to meet project requirements.
-- Research security solutions for the product (implementing XXTEA and XOR encryption for AssetBundle protection).
-- Assisted team members with complex functionalities.
 - Debugged and optimized game performance.
-- Set up environments, build, deploy, and maintain game server systems on CentOS.
-- Develop management web application features using Backend (Java Spring Boot) and Frontend (Vue.js) (e.g., user management, gift code system, analytics).
 
 **Technologies:** Java (Spring Boot), Unity, C#, LuaScript, Vue.js, MySQL, GitLab.
 
----
+### **Q*** *(September 2023 - March 2024)*  
+**Client:** VN  
+**Genre:** Idle RPG - The game runs on mobile platforms.  
+**Team Size:** 5  
+**Position:** Full-Stack Developer  
+
+**Responsibilities:**
+- Take technical responsibility for the project. 
+- Modified game UI. 
+- Responsible for end-to-end development of features.
+- Debugged and optimized game performance.
+
+**Technologies:** Unity, C#, C++, MySQL, SVN, GitLab.
 
 ### **Vạn Thần Giới** *(January 2023 - August 2023)*  
 **Client:** VN  
 **Genre:** Idle RPG - The game runs on both web and mobile platforms.  
 **Team Size:** 6  
-**Position:** Full Developer  
+**Position:** Game Developer  
 
 **Responsibilities:**
 - Take technical responsibility for the project.
 - Research new technologies to apply to projects (e.g., implementing Spine into the project).
-- Modified game UI.
+- Modified game UI. 
 - Responsible for end-to-end development of features.
 - Debugged and optimized game performance.
 
 **Technologies:** Egret TypeScript, Java (Spring MVC), MySQL, SVN, GitLab.
 
----
-
 ### **Phàm nhân tu tiên, Thiên Hạ Ngũ Tuyệt, Ninja Làng Lá, Tân Lãnh Chúa, Thuần Thú Sư H5, Thức Tỉnh Haki** *(July 2020 - December 2022)*  
 **Client:** VN  
 **Genre:** Idle RPG - The game runs on both web and mobile platforms.  
 **Team Size:** 6  
-**Position:** Developer  
+**Position:** Game Developer  
 
 **Responsibilities:**
 - Take technical responsibility for the project.
-- Modified game UI.
+- Modified game UI. 
 - Collaborated with the team to develop features and solve problems.
 - Debugged and optimized game performance.
 
