@@ -20,7 +20,7 @@ With over four years of experience as a developer, actively contributing to the 
 **Software Engineer**  
 - **Technologies:** Java (Spring/Spring Boot), Unity, C#, C++, LuaScript, Vue.js, Cocos Creator (TypeScript), MySQL, GitLab.  
 - Work as a key member, taking on technical responsibility for the project.
-- Be accountable for the end-to-end development of features.
+- Responsible for the end-to-end development of features.
 - Collaborate with team members to analyze logic and propose solutions during product development.
 - Fix bugs and optimize product performance.
 - Research security solutions for the product (implementing XXTEA and XOR encryption for AssetBundle protection).
@@ -77,23 +77,7 @@ With over four years of experience as a developer, actively contributing to the 
 - **Database:** MySQL
 - **Version Control:** Git, GitLab, SVN
 
-## 🚀 Projects
-
-### **K*** *(January 2023 - Present)*  
-**Client:** VN  
-**Genre:** Battle Chess - The game runs on mobile platforms.  
-**Team Size:** 5  
-**Position:** Software Engineer  
-
-**Responsibilities:**
-- Receive and analyze source code to understand system architecture and functionality.
-- Research and implement build & deployment processes to ensure smooth software releases.
-- Troubleshoot and resolve build/deployment issues to maintain system stability.
-- Set up environments, build, deploy, and maintain game server systems on CentOS.
-
-**Technologies:** Java (Spring Boot), Cocos Creator (TypeScript), MySQL, GitLab.
-
----
+## 🚀 Highlighted Projects
 
 ### **Call Of Treasure** *(April 2024 - December 2024)*  
 **Client:** VN  
@@ -138,7 +122,7 @@ With over four years of experience as a developer, actively contributing to the 
 
 **Technologies:** Egret TypeScript, Java (Spring MVC), MySQL, SVN, GitLab.
 
-### **Phàm nhân tu tiên, Thiên Hạ Ngũ Tuyệt, Ninja Làng Lá, Tân Lãnh Chúa, Thuần Thú Sư H5, Thức Tỉnh Haki** *(July 2020 - December 2022)*  
+### **Ninja Làng Lá** *(July 2020 - December 2020)*  
 **Client:** VN  
 **Genre:** Idle RPG - The game runs on both web and mobile platforms.  
 **Team Size:** 6  
