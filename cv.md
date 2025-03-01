@@ -93,20 +93,6 @@ With over four years of experience as a developer, actively contributing to the 
 
 **Technologies:** Java (Spring Boot), Unity, C#, LuaScript, Vue.js, MySQL, GitLab.
 
-### **Q*** *(September 2023 - March 2024)*  
-**Client:** VN  
-**Genre:** Idle RPG - The game runs on mobile platforms.  
-**Team Size:** 5  
-**Position:** Full-Stack Developer  
-
-**Responsibilities:**
-- Take technical responsibility for the project. 
-- Modified game UI. 
-- Responsible for end-to-end development of features.
-- Debugged and optimized game performance.
-
-**Technologies:** Unity, C#, C++, MySQL, SVN, GitLab.
-
 ### **Vạn Thần Giới** *(January 2023 - August 2023)*  
 **Client:** VN  
 **Genre:** Idle RPG - The game runs on both web and mobile platforms.  
